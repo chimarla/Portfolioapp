@@ -1,0 +1,32 @@
+.profile-pic{
+  border-radius: 50%;
+  width: 150px;
+  margin: 10px;
+}
+
+.header img {
+    float: left;
+    width: 100px;
+    height: 120px;
+    background: white;
+  }
+  
+  .header h2 {
+    position: relative;
+    top: 45px;
+    left: 10px;
+    color:#12283b;
+    text-shadow: 2px 2px slateblue;
+  }
+  .alignleft {
+    float: left;
+  }
+  .alignright {
+    float: right;
+  }
+
+  .divider{
+    width:5px;
+    height:auto;
+    display:inline-block;
+}
